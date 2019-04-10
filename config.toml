@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Harvard GWE"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #googleAnalytics = ""
+footnotereturnlinkcontents = "↩"
 
 [params]
   themeColor = "theme-base-08"
