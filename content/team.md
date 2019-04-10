@@ -6,7 +6,7 @@ date = "2019-04-10"
 <center>
 <img src="/./team_files/AlexAlbright.jpg" alt="" width="25%"/>
 
-**Alex Albright** is a G3 in Economics. Her research interests are in labor economics, law and economics, and economic history.
+**Alex Albright** is a G3 in Economics. Her research interests are in labor economics, law & economics, and economic history. [`Alex's Harvard Webpage`](https://scholar.harvard.edu/apalbright).
 
 <img src="/./team_files/Layane.jpg" alt="" width="30%"/>
 
@@ -46,5 +46,5 @@ date = "2019-04-10"
 
 <img src="/./team_files/Anna.jpg" alt="" width="30%"/>
 
-**Anna Stansbury** is a G3 in the Economics Department. Her fields are macro and labor.
+**Anna Stansbury** is a G3 in the Economics Department. Her fields are macro and labor. [`Anna's Harvard Webpage`](https://scholar.harvard.edu/stansbury)
 </center>
