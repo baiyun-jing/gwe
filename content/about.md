@@ -37,4 +37,4 @@ We support an economics profession where the above is true for all people regard
 
 ## Contact Us
 
-Feel free to shoot us an email at *harvardgwe@gmail.com* if you'd like to get in touch.
+Feel free to shoot us an email at `harvardgwe@gmail.com` if you'd like to get in touch.

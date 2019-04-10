@@ -5,7 +5,7 @@ date = "2019-04-10"
 
 ## Join our Mailing List
 
-Email *harvardgwe@gmail.com* to join our listserv, where we publicize our events and other things relating to gender in economics.
+Email `harvardgwe@gmail.com` to join our listserv, where we publicize our events and other things relating to gender in economics.
 
 ---
 
@@ -17,4 +17,4 @@ We hold events throughout the semester, including roundtable and panel discussio
 
 ## Join the Core Team
 
-If you’re interested in helping plan events, or in working on projects to do with gender in economics/in our department, we’d love to have you join us on the core team! Core team meetings are Tuesdays, 3-4pm. Email *harvardgwe@gmail.com* for more info.
+If you’re interested in helping plan events, or in working on projects to do with gender in economics/in our department, we’d love to have you join us on the core team! Core team meetings are Tuesdays, 3-4pm. Email `harvardgwe@gmail.com` for more info.

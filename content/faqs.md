@@ -44,7 +44,7 @@ There are stark problems of diversity and inclusion for other underrepresented g
 
 ## 5. How can I get involved?
 
-If you’re a PhD student involved in economics-related work at Harvard, email harvardgwe@gmail.com to contact us or join our mailing list! 
+If you’re a PhD student involved in economics-related work at Harvard, email `harvardgwe@gmail.com` to contact us or join our mailing list! 
 
 ---
 
