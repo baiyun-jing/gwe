@@ -1,5 +1,5 @@
 theme = "hyde"
-baseURL = "https://reverent-mcnulty-d0943b.netlify.com"
+baseURL = "https://xenodochial-bose-2732ba.netlify.com"
 languageCode = "en-us"
 title = "Harvard GWE"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
