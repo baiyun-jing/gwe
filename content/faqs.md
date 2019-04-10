@@ -1,5 +1,5 @@
 +++
-title = "Frequently Asked Questions about women in economics and the Harvard GWE group"
+title = "FAQs: women in economics and the Harvard GWE group"
 date = "2019-04-10"
 +++
 
@@ -50,4 +50,4 @@ If you’re a PhD student involved in economics-related work at Harvard, email `
 
 ## 6. Can I be involved as a man?
 
-Yes, our mission is to work towards the inclusion of women in the profession, which very much involves the participation of men in the world of economics. Students of all genders are welcome to be involved in working groups and larger discussions -- we’ll be explicit if there are any events that are women-only.
+Yes, we'd love to have you! Our mission is to work towards the inclusion of women in the profession, which very much involves the participation of men in the world of economics. Students of all genders are welcome to be involved in working groups and larger discussions -- we’ll be explicit if there are any events that are women-only.
