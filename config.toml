@@ -1,4 +1,39 @@
 theme = "hyde"
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Harvard GWE"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+#googleAnalytics = ""
+
+[params]
+  themeColor = "theme-base-08"
+  description = "Bringing together Harvard graduate women in economics Harvard OR Working towards the inclusion of women in economics"
+  #authorimage = "/img/gwe2.png"
+  #copyright = "Harvard GWE"
+  
+## Main Menu
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 100
+    url = "/about/"
+[[menu.main]]
+    name = "FAQs"
+    identifier = "faqs"
+    weight = 200
+    url = "/faqs/" 
+[[menu.main]]
+    name = "Events"
+    weight = 300
+    identifier = "posts"
+    url = "/posts/"    
+[[menu.main]]
+    name = "Team"
+    identifier = "team"
+    weight = 400
+    url = "/team/"
+[[menu.main]]
+    name = "Get Involved"
+    identifier = "get-involved"
+    weight = 500
+    url = "/get-involved/"    
