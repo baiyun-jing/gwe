@@ -5,9 +5,9 @@ date = "2019-04-10"
 
 ## Background
 
-Harvard Grad Women in Econ was created in spring 2018 to bring together graduate student women^[Throughout our website, this term includes anyone who identifies with the experience of being a woman.] in economics as well as those interested in working towards inclusion of women in economics.
+Harvard Grad Women in Econ was set up in spring 2018 with two goals: building community among women^[Throughout our website, this term includes anyone who identifies with the experience of being a woman.] in economics at Harvard, and bringing together grad students of all genders to work towards the inclusion of women in economics.
 
-Our group consists of PhD students at Harvard in economics-related studies. That includes students pursuing PhD's in economics, public policy, education policy, business economics, political economy and government, etc.  
+We're open to all PhD students at Harvard in economics-related areas. (That includes students pursuing PhDs in economics, public policy, education policy, business economics, political economy and government, etc.)
 
 ---
 
