@@ -40,6 +40,8 @@ date = "2019-04-10"
 
 **Awa Ambra Seck** is a G2 in the PEG program. Her research interests are political economy and development economics.
 
+<img src="/./team_files/emma_smith.jpeg" alt="" width="30%"/>
+
 **Emma Smith** is a G1 in Public Policy, with an interest in development and political economy. She has a regional focus in the Middle East and East Africa.
 
 <img src="/./team_files/Anna.jpg" alt="" width="30%"/>
