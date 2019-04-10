@@ -15,4 +15,4 @@ We hold events throughout the semester, including roundtable and panel discussio
 
 ## Join the Core Team
 
-If you’re interested in helping plan events, or in working on projects to do with gender in economics/in our department, we’d love to have you join us on the core team! Core team meetings are Tuesdays, 3-4pm. Email `harvardgwe@gmail.com` for more info.
+If you’re interested in helping plan events, or in working on projects to do with gender in economics/in our department, we’d love to have you join us on the core team! The core team meets monthly. Email `harvardgwe@gmail.com` for more info.
