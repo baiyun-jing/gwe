@@ -1,14 +1,14 @@
 theme = "hyde"
 baseURL = "https://alex-builds-a-draft-website.netlify.com/"
 languageCode = "en-us"
-title = "Harvard GWE"
+title = "Harvard Grad Women in Econ"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #googleAnalytics = ""
 footnotereturnlinkcontents = "↩"
 
 [params]
   themeColor = "theme-base-08"
-  description = "Bringing together Harvard graduate women in economics OR Working towards the inclusion of women in economics?"
+  description = "Working towards a more inclusive economics"
   #authorimage = "/img/gwe2.png"
   #copyright = "Harvard GWE"
   
