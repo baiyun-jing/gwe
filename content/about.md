@@ -1,5 +1,5 @@
 +++
-title = "About Harvard GWE"
+title = "About Harvard Grad Women in Econ (GWE)"
 date = "2019-04-10"
 +++
 
