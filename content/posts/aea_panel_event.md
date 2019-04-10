@@ -1,7 +1,7 @@
 ---
 author: "Harvard GWE"
 date: 2019-05-03
-draft: false
+publishDate: 2019-04-10
 linktitle: Watching AEA Panel on Gender and Economics
 title: Watching AEA Panel on Gender and Economics
 description: "We are hosting a viewing of the AEA panel 'How Can Economics Solve Its Gender Problem?' Come watch on Friday May 3rd from 3:30-5:30pm in the Littauer M16."

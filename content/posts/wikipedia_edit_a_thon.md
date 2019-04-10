@@ -1,7 +1,7 @@
 ---
 author: "Harvard GWE"
 date: 2019-04-18
-draft: false
+publishDate: 2019-04-10
 linktitle: Wikipedia Edit-A-Thon
 title: Wikipedia Edit-A-Thon
 description: "Bring your laptop to help change the image of what an economist looks like online. This event will take place on Thursday, April 18th from 4:00-5:00pm in the Littauer Hanson-Mason room."
