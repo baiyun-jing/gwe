@@ -1,6 +1,6 @@
 +++
 title = "Harvard GWE Core Team"
-date = ""
+date = "2019-04-10"
 +++
 
 <center>

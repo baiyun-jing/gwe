@@ -1,6 +1,6 @@
 +++
 title = "FAQs"
-date = ""
+date = "2019-04-10"
 +++
 
 ## 1. What is the status of women right now in economics?
