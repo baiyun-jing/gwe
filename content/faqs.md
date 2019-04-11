@@ -10,7 +10,6 @@ date = "2019-04-10"
 5. [How can I get involved?](#q5)
 6. [Can I be involved as a man?](#q6)
 
-
 ## <a name="q1"></a> 1. What is the status of women right now in economics?
 
 Women are substantially underrepresented at all stages of the economics profession. The proportion of women and of minorities in economics PhDs and BAs is [far lower than in STEM](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.30.4.221); the proportion of women assistant professors and PhDs [hasn’t changed in 20 years](https://www.aeaweb.org/about-aea/committees/cswep/survey); less than 15% of full professors are women.
