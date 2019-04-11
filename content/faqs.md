@@ -3,7 +3,15 @@ title = "FAQs: women in economics and the Harvard GWE group"
 date = "2019-04-10"
 +++
 
-## 1. What is the status of women right now in economics?
+1. [What is the status of women right now in economics?](#q1)
+2. [Isn't it a generational/pipeline question?](#q2)
+3. [Isn't it because of math?](#q3)
+4. [What about other underrepresented groups?](#q4)
+5. [How can I get involved?](#q5)
+6. [Can I be involved as a man?](#q6)
+
+
+## <a name="q1"></a> 1. What is the status of women right now in economics?
 
 Women are substantially underrepresented at all stages of the economics profession. The proportion of women and of minorities in economics PhDs and BAs is [far lower than in STEM](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.30.4.221); the proportion of women assistant professors and PhDs [hasn’t changed in 20 years](https://www.aeaweb.org/about-aea/committees/cswep/survey); less than 15% of full professors are women.
 
@@ -11,7 +19,7 @@ On top of that, even when women are represented, there’s increasing evidence t
 
 ---
 
-## 2. Isn't it a generational/pipeline question?
+## <a name="q2"></a> 2. Isn't it a generational/pipeline question?
 
 Nope! At all levels of the profession, there’s been hardly any improvement in women’s representation in the last 20+ years:
 
@@ -26,7 +34,7 @@ See more from the CSWEP survey [here](https://www.aeaweb.org/about-aea/committee
 
 ---
 
-## 3. Isn't it because of math?
+## <a name="q3"></a> 3. Isn't it because of math?
 
 Nope! Math and math-intensive sciences mostly have more women in them than economics does -- and they’ve been increasing women’s representation over time while economics hasn’t.
 
@@ -36,18 +44,18 @@ Graphs are from [Claudia Sahm's 2018 Presentation to NABE on Women in Economics]
 
 ---
 
-## 4. What about other underrepresented groups?
+## <a name="q4"></a> 4. What about other underrepresented groups?
 
 There are stark problems of diversity and inclusion for other underrepresented groups also. According to the AEA climate survey, a third of non-white economists and more than a third of black economists responding have personally experienced discrimination in the profession; a quarter of non-white economists have avoided applying for or taking a job to avoid harassment. 20% of non-heterosexual economists have experienced discrimination based on their sexual orientation, and 15% of disabled economists have experienced discrimination based on their disability. See some graphs on these and other AEA Climate Survey Results [here](https://twitter.com/paulgp/status/1108564253206704129).
 
 ---
 
-## 5. How can I get involved?
+## <a name="q5"></a> 5. How can I get involved?
 
 If you’re a PhD student involved in economics-related work at Harvard, email `harvardgwe@gmail.com` to contact us or join our mailing list! 
 
 ---
 
-## 6. Can I be involved as a man?
+## <a name="q6"></a> 6. Can I be involved as a man?
 
 Yes, we'd love to have you! Our mission is to work towards the inclusion of women in the profession, which very much involves the participation of men in the world of economics. Students of all genders are welcome to be involved in working groups and larger discussions -- we’ll be explicit if there are any events that are women-only.
