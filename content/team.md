@@ -34,7 +34,7 @@ date = "2019-04-10"
 
 <img src="/./team_files/LJ.jpg" alt="" width="30%"/>
 
-**Ljubica "LJ" Ristovska** is a G2 in the Economics PhD program and is interested in public, labor, and IO, with a particular focus on health economics.
+**Ljubica "LJ" Ristovska** is a G2 in the Economics PhD program and is interested in public, labor, and IO, with a particular focus on health economics. [`LJ's Harvard Webpage.`](https://scholar.harvard.edu/ristovska)
 
 <img src="/./team_files/Ambra.jpg" alt=""/>
 
