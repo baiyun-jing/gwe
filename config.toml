@@ -23,11 +23,16 @@ footnotereturnlinkcontents = "↩"
     identifier = "faqs"
     weight = 200
     url = "/faqs/" 
+#[[menu.main]]
+#    name = "Events1"
+#    weight = 300
+#    identifier = "posts"
+#    url = "/posts/"
 [[menu.main]]
     name = "Events"
     weight = 300
-    identifier = "posts"
-    url = "/posts/"    
+    identifier = "events"
+    url = "/events/"     
 [[menu.main]]
     name = "Team"
     identifier = "team"
