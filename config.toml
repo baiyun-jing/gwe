@@ -1,7 +1,7 @@
 theme = "hyde"
 baseURL = "https://alex-builds-a-draft-website.netlify.com/"
 languageCode = "en-us"
-title = "Harvard GWE"
+title = "Harvard Grad Women in Econ"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #googleAnalytics = ""
 footnotereturnlinkcontents = "↩"
