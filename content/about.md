@@ -29,6 +29,14 @@ An economics profession where people of all genders:
 
 We support an economics profession where the above is true for all people regardless of race or ethnicity, sexuality, or disability. While our focus is on gender, we actively support other efforts to promote broader diversity and inclusion.
 
+# Project Groups
+
+- Seminar Culture
+- Peer & Faculty Outreach
+- Undergrad & High School Outreach
+- Job Market
+- Tech/Media 
+
 # Contact Us
 
 Feel free to shoot us an email at `harvardgwe@gmail.com` if you'd like to get in touch.
