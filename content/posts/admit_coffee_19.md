@@ -1,8 +1,8 @@
 ---
 author: "Harvard GWE"
 date: 2019-04-01
-linktitle: Coffee Hour with Admits (2019)
-title: Coffee Hour with Admits (2019)
+linktitle: Coffee Hour with Admits
+title: Coffee Hour with Admits
 description: "Come talk with recent admits to the Harvard economics program on April 1 from 5:00-6:00pm in the Littauer 3rd floor lounge."
 weight: 10
 ---
