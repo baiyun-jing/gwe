@@ -3,7 +3,7 @@ title = "Get Involved"
 date = "2019-04-10"
 +++
 
-If you're a grad student in economics at Harvard, we'd love you to be involved with our group. All genders welcome to join the mailing list and core team and to come to most of our events -- we'll be explicit if there's any event just for women.
+If you’re a PhD student in an economics-related area at Harvard, we'd love you to be involved with our group. All genders welcome to join the mailing list and core team and to come to most of our events -- we'll be explicit if there's any event just for women.
 
 # Join our Mailing List
 
