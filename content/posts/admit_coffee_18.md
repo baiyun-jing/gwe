@@ -9,4 +9,4 @@ weight: 10
 
 All women grad students, please stop by the Littauer 3rd floor lounge on **April 4 from 5-6pm** to meet the women new admits and chat about the department and the program in an informal setting. 
 
-Coffee and Formaggio Kitchen cheese platter will be provided. *Thanks to Erica for organizing!*
+Coffee and Formaggio Kitchen cheese platter will be provided. Thanks to Erica for organizing!
