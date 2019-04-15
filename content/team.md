@@ -6,7 +6,7 @@ date = "2019-04-10"
 <center>
 <img src="/./team_files/AlexAlbright.jpg" alt="" width="25%"/>
 
-**Alex Albright** is a third-year in the Economics PhD program. Her research interests are in labor economics, law & economics, and economic history. [`Alex's Harvard Webpage`](https://scholar.harvard.edu/apalbright).
+**Alex Albright** is a third-year in the Economics PhD program. Her research interests are in labor economics, law & economics, and economic history. [`Alex's Harvard Webpage`](https://scholar.harvard.edu/apalbright)
 
 <img src="/./team_files/Layane.jpg" alt="" width="30%"/>
 
@@ -34,7 +34,7 @@ date = "2019-04-10"
 
 <img src="/./team_files/LJ.jpg" alt="" width="30%"/>
 
-**Ljubica "LJ" Ristovska** is a second-year in the Economics PhD program and is interested in public, labor, and IO, with a particular focus on health economics. [`LJ's Harvard Webpage.`](https://scholar.harvard.edu/ristovska)
+**Ljubica "LJ" Ristovska** is a second-year in the Economics PhD program and is interested in public, labor, and IO, with a particular focus on health economics. [`LJ's Harvard Webpage`](https://scholar.harvard.edu/ristovska)
 
 <img src="/./team_files/Ambra.jpg" alt=""/>
 
