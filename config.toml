@@ -14,32 +14,22 @@ footnotereturnlinkcontents = "↩"
   
 ## Main Menu
 [[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 100
-    url = "/about/"
-[[menu.main]]
     name = "FAQs"
     identifier = "faqs"
-    weight = 200
+    weight = 100
     url = "/faqs/" 
-#[[menu.main]]
-#    name = "Events1"
-#    weight = 300
-#    identifier = "posts"
-#    url = "/posts/"
 [[menu.main]]
     name = "Events"
-    weight = 300
+    weight = 200
     identifier = "events"
     url = "/events/"     
 [[menu.main]]
     name = "Team"
     identifier = "team"
-    weight = 400
+    weight = 300
     url = "/team/"
 [[menu.main]]
     name = "Get Involved"
     identifier = "get-involved"
-    weight = 500
+    weight = 400
     url = "/get-involved/"    
