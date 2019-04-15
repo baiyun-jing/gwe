@@ -11,8 +11,8 @@ We're open to all PhD students at Harvard in economics-related areas. (That incl
 
 # We have two strands:
 
-1. **Social & networking:**  bringing together grad women in economics at Harvard and across local departments, including faculty, and undergrad women. 
-2. **Working group:** thinking about & taking action on issues to do with gender in the department and in economics more broadly. This is an informal place to try to identify what the issues might be, develop ideas to tackle them, and get together with other people keen to work on them. 
+1. **Social & networking:** bringing together grad women in economics at Harvard in community with faculty, undergrad women, and women across local departments.
+2. **Working group:** thinking about & taking action on issues to do with gender in our department and in economics more broadly. This is an informal place to try to identify what the issues might be, develop ideas to tackle them, and get together with other people keen to work on them.
 
 *Note: Working group events are open to all genders, but some social & networking events are specifically for women. Event details will always specify which case fits for a given event.*
 
