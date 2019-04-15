@@ -22,7 +22,7 @@ date = "2019-04-10"
 
 <img src="/./team_files/holston.jpeg" alt="" width="30%" />
 
-**Kathryn Holston** is a second-year in the Economics PhD program. Her fields are macro and finance and her research interests include monetary policy.
+**Kathryn Holston** is a second-year in the Economics PhD program. Her fields are macro and finance and her research interests include monetary policy. [`Kathryn's Website`](https://kathrynholston.weebly.com/)
 
 <img src="/./team_files/Celena.png" alt="" width= "30%"/>
 
