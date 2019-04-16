@@ -18,7 +18,7 @@ date = "2019-04-10"
 
 <img src="/./team_files/IH.jpg" alt="" width="25%"/>
 
-**Isabel Harbaugh** is a fourth-year in the Public Policy PhD program specializing in labor and development economics. Isabel's projects focus on vocational education and financial inclusion.
+**Isabel Harbaugh Macdonald** is a fourth-year in the Public Policy PhD program specializing in labor and development economics. Isabel's projects focus on vocational education and financial inclusion.
 
 <img src="/./team_files/holston.jpeg" alt="" width="30%" />
 
