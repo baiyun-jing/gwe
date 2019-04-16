@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://harvardgwe.netlify.com/* https://harvardgwe.com/:splat 301!
