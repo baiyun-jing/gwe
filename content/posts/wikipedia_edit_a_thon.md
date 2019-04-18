@@ -10,6 +10,8 @@ weight: 10
 
 ### Calling all budding Wikipedia editors (of all genders) for... **the GWE Wikipedia Edit-A-Thon!**
 
+![](/posts/wikipedia_edit_a_thon_files/wiki_edits.jpg)
+
 11 of 13 "notable economists" and both pictures on Wikipedia's ["Economist"](https://en.wikipedia.org/wiki/Economist) page are men. Donna Strickland, who won the Nobel Prize in Physics last year, [didn't have a Wikipedia page](https://www.theguardian.com/science/2018/oct/03/donna-strickland-nobel-physics-prize-wikipedia-denied). 18% of biographies on Wikipedia are about women. 87% of Wikipedia editors are men. 
 
 Bring your laptop to **Littauer M42 4-5pm Thursday April 18th** to help change the image of what an economist looks like online, and help top women economists get the recognition they deserve! 
