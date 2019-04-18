@@ -4,7 +4,7 @@ date: 2019-04-18
 publishDate: 2019-04-10
 linktitle: Wikipedia Edit-A-Thon
 title: Wikipedia Edit-A-Thon
-description: "Bring your laptop to help change the image of what an economist looks like online. This event will take place on Thursday, April 18th from 4:00-5:00pm in the Littauer Hanson-Mason room."
+description: "Bring your laptop to help change the image of what an economist looks like online. This event will take place on Thursday, April 18th from 4:00-5:00pm in M42."
 weight: 10
 ---
 
@@ -12,7 +12,7 @@ weight: 10
 
 11 of 13 "notable economists" and both pictures on Wikipedia's ["Economist"](https://en.wikipedia.org/wiki/Economist) page are men. Donna Strickland, who won the Nobel Prize in Physics last year, [didn't have a Wikipedia page](https://www.theguardian.com/science/2018/oct/03/donna-strickland-nobel-physics-prize-wikipedia-denied). 18% of biographies on Wikipedia are about women. 87% of Wikipedia editors are men. 
 
-Bring your laptop to the **Littauer Third Floor Lounge 4-5pm Thursday April 18th** to help change the image of what an economist looks like online, and help top women economists get the recognition they deserve! 
+Bring your laptop to **Littauer M42 4-5pm Thursday April 18th** to help change the image of what an economist looks like online, and help top women economists get the recognition they deserve! 
 
 No need for any prior Wikipedia editing experience, or any idea of what you'll write. We will provide a list of women who don't have bios at all or have stub bios that need expanding - as well as fun snacks. Plus, if you stay until 5pm you can greet the therapy dogs too...!
 
