@@ -10,7 +10,7 @@ date = "2019-04-10"
 ## Past Events
 
 - 5/3/19: [Watching AEA Panel on Gender and Economics](/posts/aea_panel_event/)
-- 4/18/19: [Wikipedia Edit-A-Thon](/posts/wikipedia_edit_a_thon/)
+- 4/18/19: [Wikipedia Edit-A-Thon](/posts/wikipedia_edit_a_thon/) (Related Resource: [Wikipedia Editing Tips](/posts/wikipedia_tips/))
 - 4/7/19: [Women's Brunch with G1s](/posts/brunch_spring_19/)
 - 4/5/19: [A Conversation with Female Faculty in Economics](/posts/female_faculty_conversation2/)
 - 4/1/19: [Coffee Hour with Admits](/posts/admit_coffee_19/)
