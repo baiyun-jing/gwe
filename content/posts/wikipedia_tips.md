@@ -2,8 +2,8 @@
 author: "Harvard GWE"
 date: 2019-04-18
 publishDate: 2019-04-15
-linktitle: Tips on Wikipedia Editing
-title: Tips on Wikipedia Editing
+linktitle: Wikipedia Editing Tips
+title: Wikipedia Editing Tips
 weight: 10
 ---
 
