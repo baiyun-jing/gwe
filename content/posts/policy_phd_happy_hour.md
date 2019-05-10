@@ -1,6 +1,7 @@
 ---
 author: "Harvard GWE"
 date: 2019-05-16
+publishDate: 2019-04-15
 linktitle: Women in Policy PhDs Happy Hour
 title: Women in Policy PhDs Happy Hour
 description: ""
