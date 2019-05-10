@@ -5,7 +5,7 @@ date = "2019-04-10"
 
 ## Upcoming Events
 
-- TBA!
+- 5/16/19: [Women in Policy PhDs Happy Hour](/posts/policy_phd_happy_hour/)
 
 ## Past Events
 
