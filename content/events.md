@@ -5,10 +5,11 @@ date = "2019-04-10"
 
 ## Upcoming Events
 
-- 5/16/19: [Women in Policy PhDs Happy Hour](/posts/policy_phd_happy_hour/)
+- TBA!
 
 ## Past Events
 
+- 5/16/19: [Women in Policy PhDs Happy Hour](/posts/policy_phd_happy_hour/)
 - 5/3/19: [Watching AEA Panel on Gender and Economics](/posts/aea_panel_event/)
 - 4/18/19: [Wikipedia Edit-A-Thon](/posts/wikipedia_edit_a_thon/) (Related Resource: [Wikipedia Editing Tips](/posts/wikipedia_tips/))
 - 4/7/19: [Women's Brunch with G1s](/posts/brunch_spring_19/)
