@@ -5,7 +5,7 @@ date = "2019-04-10"
 
 ## Upcoming Events
 
-- TBA!
+- 10/6/19: [Fall Women's Brunch](/posts/brunch_fall_19/)
 
 ## Past Events
 
