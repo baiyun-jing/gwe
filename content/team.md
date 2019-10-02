@@ -16,6 +16,10 @@ date = "2019-04-10"
 
 **Ria Granzier** is a third-year in the Economics PhD program. Her research interests lie in theory and labor generally.
 
+<img src="/./team_files/steph.jpg" alt="" width="30%"/>
+
+**Stephanie Kestelman** is a first-year in the Economics PhD program. Her research interests are public economics, questions in federal/state and local fiscal policy, and urban economics. [`Stephanie's Website`](https://skestelman.github.io/)
+
 <img src="/./team_files/IH.jpg" alt="" width="25%"/>
 
 **Isabel Harbaugh Macdonald** is a fifth-year in the Public Policy PhD program specializing in labor and development economics. Isabel's projects focus on vocational education and financial inclusion.
