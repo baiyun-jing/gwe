@@ -5,9 +5,16 @@ date = "2019-04-10"
 
 ## Upcoming Events
 
-- 10/6/19: [Fall Women's Brunch](/posts/brunch_fall_19/)
+- TBA!
 
 ## Past Events
+
+### 2019-2020 Academic Year
+
+- 10/31/19: [Halloween Happy Hour with Dr. Alice Evans](/posts/alice_evans_happy_hour/)
+- 10/6/19: [Fall Women's Brunch](/posts/brunch_fall_19/)
+
+### 2018-2019 Academic Year
 
 - 5/16/19: [Women in Policy PhDs Happy Hour](/posts/policy_phd_happy_hour/)
 - 5/3/19: [Watching AEA Panel on Gender and Economics](/posts/aea_panel_event/)
@@ -21,4 +28,7 @@ date = "2019-04-10"
 - 10/31/18: [Halloween Movie Night](/posts/halloween_movie/)
 - 10/26/18: [Conversation with Dr. Lisa Cook](/posts/event_with_lisa_cook/)
 - 8/4/18: [Inaugural Women's Brunch](/posts/brunch_summer_18/)
+
+### 2017-2018 Academic Year
+
 - 4/4/18: [Coffee Hour with Admits](/posts/admit_coffee_18/)
