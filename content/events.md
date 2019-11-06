@@ -6,7 +6,7 @@ date = "2019-04-10"
 ## Upcoming Events
 
 - 11/19/19: [Lunch with Professor Rebecca Diamond](/posts/diamond_lunch/)
-- 11/13/19: [Coffee Hour with Dr. Owen Zidar](/posts/zidar_coffee_hour/)
+- 11/13/19: [Coffee Hour with Professor Owen Zidar](/posts/zidar_coffee_hour/)
 
 ## Past Events
 
