@@ -1,7 +1,7 @@
 ---
 author: "Harvard GWE"
 date: 2019-11-05
-publishDate: 2019-11-05
+publishDate: 2019-11-01
 linktitle: GWE Lunch with Professor Alessandra Voena
 title: GWE Lunch with Professor Alessandra Voena
 weight: 10

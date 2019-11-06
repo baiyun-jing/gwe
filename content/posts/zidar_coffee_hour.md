@@ -1,7 +1,7 @@
 ---
 author: "Harvard GWE"
 date: 2019-11-13
-publishDate: 2019-11-13
+publishDate: 2019-11-01
 linktitle: GWE Coffee Hour with Owen Zidar
 title: GWE Coffee Hour with Owen Zidar
 weight: 10

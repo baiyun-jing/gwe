@@ -1,7 +1,7 @@
 ---
 author: "Harvard GWE"
 date: 2019-11-19
-publishDate: 2019-11-19
+publishDate: 2019-11-01
 linktitle: GWE Lunch with Professor Rebecca Diamond
 title: GWE Lunch with Professor Rebecca Diamond
 weight: 10
