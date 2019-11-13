@@ -5,13 +5,14 @@ date = "2019-04-10"
 
 ## Upcoming Events
 
+- 11/22/19: [Female Faculty Panel](/posts/female_faculty_panel/)
 - 11/19/19: [Lunch with Professor Rebecca Diamond](/posts/diamond_lunch/)
-- 11/13/19: [Coffee Hour with Professor Owen Zidar](/posts/zidar_coffee_hour/)
 
 ## Past Events
 
 ### 2019-2020 Academic Year
 
+- 11/13/19: [Coffee Hour with Professor Owen Zidar](/posts/zidar_coffee_hour/)
 - 11/5/19: [Lunch with Professor Alessandra Voena](/posts/voena_lunch/)
 - 10/31/19: [Halloween Happy Hour with Dr. Alice Evans](/posts/alice_evans_happy_hour/)
 - 10/6/19: [Fall Women's Brunch](/posts/brunch_fall_19/)
