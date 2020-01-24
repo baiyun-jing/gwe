@@ -12,6 +12,10 @@ date = "2019-04-10"
 
 **Layane Elhor** is a third-year in the Public Policy PhD program interested in development, labor, and behavioral economics.
 
+<img src="/./team_files/Ariel.jpeg" alt="" width="30%"/>
+
+**Ariel Gomez** is a third-year in the economics department and is interested in  political economy, labor, and development economics.
+
 <img src="/./team_files/Ria.png" alt="" width="30%"/>
 
 **Ria Granzier** is a third-year in the Economics PhD program. Her research interests lie in theory and labor generally.
