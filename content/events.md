@@ -5,7 +5,7 @@ date = "2020-01-10"
 
 ## Upcoming Events
 
-- 02/09/20: [Women's Brunch](/posts/brunch_feb_20/)
+- 2/09/20: [Women's Brunch](/posts/brunch_feb_20/)
 
 ## Past Events
 
