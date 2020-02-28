@@ -5,12 +5,17 @@ date = "2020-01-10"
 
 ## Upcoming Events
 
-- 2/09/20: [Women's Brunch](/posts/brunch_feb_20/)
+- 3/10/20: [Lunch with Professor Amanda Kowalski](/posts/kowalski_lunch/)
+- 3/24/20: [Lunch with Professor Teodora Boneva](/posts/boneva_lunch/)
+- 5/5/20: [Lunch with Professor Ilyana Kuziemko](/posts/kuziemko_lunch/)
 
 ## Past Events
 
 ### 2019-2020 Academic Year
 
+- 2/27/20: [Panel on Pursuing an Economics PhD](/posts/pursuing_an_econ_phd_20/)
+- 2/18/20: [Lunch with Professor Emily Oster](/posts/oster_lunch/)
+- 2/09/20: [Women's Brunch](/posts/brunch_feb_20/)
 - 11/22/19: [Female Faculty Panel](/posts/female_faculty_panel/)
 - 11/19/19: [Lunch with Professor Rebecca Diamond](/posts/diamond_lunch/)
 - 11/13/19: [Coffee Hour with Professor Owen Zidar](/posts/zidar_coffee_hour/)
