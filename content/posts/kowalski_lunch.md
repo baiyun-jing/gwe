@@ -1,7 +1,7 @@
 ---
 author: "Harvard GWE"
 date: 2020-03-10
-publishDate: 2020-03-10
+publishDate: 2020-01-10
 linktitle: GWE Lunch with Professor Amanda Kowalski
 title: GWE Lunch with Professor Amanda Kowalski
 weight: 10

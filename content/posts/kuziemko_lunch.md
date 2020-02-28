@@ -1,7 +1,7 @@
 ---
 author: "Harvard GWE"
 date: 2020-05-05
-publishDate: 2020-05-05
+publishDate: 2020-01-05
 linktitle: GWE Lunch with Professor Ilyana Kuziemko
 title: GWE Lunch with Professor Ilyana Kuziemko
 weight: 10
