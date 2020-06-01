@@ -5,14 +5,16 @@ date = "2020-01-10"
 
 ## Upcoming Events
 
-- 3/10/20: [Lunch with Professor Amanda Kowalski](/posts/kowalski_lunch/)
-- 3/24/20: [Lunch with Professor Teodora Boneva](/posts/boneva_lunch/)
-- 5/5/20: [Lunch with Professor Ilyana Kuziemko](/posts/kuziemko_lunch/)
+**We have postponed all our in-person events from March 2020 onwards due to COVID-19.** 
+
+While we are apart physically, we are continuing to build community and support each other with weekly virtual lunches and co-working times. 
 
 ## Past Events
 
 ### 2019-2020 Academic Year
 
+- 4/2/20: [Coffee hour with Laura Feiveson](/posts/feiveson_coffee/)
+- 4/2/20: Admit day coffee hour on Zoom
 - 2/27/20: [Panel on Pursuing an Economics PhD](/posts/pursuing_an_econ_phd_20/)
 - 2/18/20: [Lunch with Professor Emily Oster](/posts/oster_lunch/)
 - 2/09/20: [Women's Brunch](/posts/brunch_feb_20/)
