@@ -19,6 +19,10 @@ date = "2019-04-10"
 
 **Alex Albright** is a fifth-year in the Economics PhD program. Her research interests are in labor economics, law & economics, and economic history. [`Alex's Website`](https://thelittledataset.com/about/)
 
+<img src="/./team_files/saumya.jpg" alt="" width="30%"/>
+
+**Saumya Chatrath** is a fifth-year in the Health Policy program. Her research interests include health insurance design, and health reform. 
+
 <img src="/./team_files/Layane.jpg" alt="" width="30%"/>
 
 **Layane Elhor** is a fourth-year in the Public Policy PhD program interested in development, labor, and behavioral economics.
@@ -35,7 +39,7 @@ date = "2019-04-10"
 
 **Isabel Harbaugh Macdonald** is a sixth-year in the Public Policy PhD program specializing in labor and development economics. Isabel's projects focus on vocational education and financial inclusion.
 
-<img src="/./team_files/kristen.jpg" alt="" width="25%"/>
+<img src="/./team_files/kristen.jpg" alt="" width="30%"/>
 
 **Kristen McCormack** is a fourth-year in the Public Policy PhD program interested in environmental, public, and labor economics. [`Kristen's Website`](https://scholar.harvard.edu/kmccormack/home) 
 
