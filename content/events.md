@@ -3,11 +3,14 @@ title = "List of Harvard GWE Events"
 date = "2020-01-10"
 +++
 
-## Upcoming Events
-
 **We have postponed all our in-person events from March 2020 onwards due to COVID-19.** 
 
-While we are apart physically, we are continuing to build community and support each other with weekly virtual lunches and co-working times. 
+While we are apart physically, we are continuing to build community and support each other with weekly virtual lunches ("Littauer Ladies who Lunch") and co-working times. [Contact us](/get-involved/) if you'd like to join virtual meetings.
+
+## Upcoming *Virtual* Events
+
+- 9/13/20: [PSN & GWE Self-Care Brunch](/posts/psn_gwe_brunch/)
+- 8/20/20: Coffee Hour with the G1s
 
 ## Past Events
 
