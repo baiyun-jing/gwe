@@ -23,9 +23,9 @@ date = "2019-04-10"
 
 **Saumya Chatrath** is a fifth-year in the Health Policy program. Her research interests include health insurance design, and health reform. 
 
-<img src="/./team_files/Layane.jpg" alt="" width="30%"/>
+<img src="/./team_files/Alhorr.png" alt="" width="33%"/>
 
-**Layane Elhor** is a fourth-year in the Public Policy PhD program interested in development, labor, and behavioral economics.
+**Layane Alhorr** is a fourth-year in the Public Policy PhD program interested in development, labor, and behavioral economics.
 
 <img src="/./team_files/Ariel.jpeg" alt="" width="30%"/>
 
