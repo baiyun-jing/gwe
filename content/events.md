@@ -9,10 +9,14 @@ While we are apart physically, we are continuing to build community and support 
 
 ## Upcoming *Virtual* Events
 
-- 9/13/20: [PSN & GWE Self-Care Brunch](/posts/psn_gwe_brunch/)
-- 8/20/20: Coffee Hour with the G1s
+- 12/8/20: Heterogeneity by Gender: Evidence from JMPs
 
 ## Past Events
+
+### 2020-2021 Academic Year (all *virtual*)
+
+- 9/13/20: [PSN & GWE Self-Care Brunch](/posts/psn_gwe_brunch/)
+- 8/20/20: Coffee Hour with the G1s
 
 ### 2019-2020 Academic Year
 
