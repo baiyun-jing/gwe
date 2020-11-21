@@ -9,7 +9,7 @@ While we are apart physically, we are continuing to build community and support 
 
 ## Upcoming *Virtual* Events
 
-- 12/8/20: Heterogeneity by Gender: Evidence from JMPs
+- 12/8/20: [Heterogeneity by Gender: Evidence from JMPs](/posts/jmps_event/)
 
 ## Past Events
 
