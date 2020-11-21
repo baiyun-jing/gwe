@@ -17,7 +17,7 @@ Want to learn about new economics research that speaks to gender in different ec
 
 ![](/posts/jmp-event/banner2.png)
 
-This event will feature a stellar line up of Job Market Candidates with Job Market Papers (JMPs) on topics across a range of contexts from the ask gap to unemployment insurance: 
+This event will feature a stellar line up of Job Market Candidates with Job Market Papers (JMPs) on outcomes by gender across a range of contexts, from the ask gap to unemployment insurance: 
 
 - [**Stephanie Cheng**](https://scholar.harvard.edu/sdcheng) on ["Careers Versus Children: How Childcare Affects the Academic Tenure-Track Gender Gap"](https://scholar.harvard.edu/files/sdcheng/files/sdcheng_kids_jmpv7.pdf)
 - [**Paula López-Peña**](https://sites.google.com/view/plopezpena) on ["Managing the second shift: The impact of noncognitive skills on female entrepreneurs’ time allocation and mental health"](https://www.dropbox.com/s/mpzuyjoyskdavoo/lopezpena-jmp-201102.pdf?dl=0)
@@ -27,4 +27,4 @@ This event will feature a stellar line up of Job Market Candidates with Job Mark
 
 For the first half of this event, each researcher will discuss their JMP context + results. For the second half, we will shift to Q+A and broad discussion questions. [Alex Albright](https://scholar.harvard.edu/apalbright) and [Steph Kestelman](https://skestelman.github.io/) will moderate with questions from the audience. Audience members can submit questions via the Zoom chat during the event or via [this form](https://forms.gle/rMLJnaj55e6ySSuY7) before the event.
 
-There will also a 30 min *gather.town* hang afterwards for any attendees and panelists who are interested in continuing the conversation. We will share that link at the end of the webinar.
+There will also be a 30 min *gather.town* hang afterwards for any attendees and panelists who are interested in continuing the conversation. We will share that link at the end of the webinar.
