@@ -10,6 +10,8 @@ weight: 10
 
 Want to learn about new economics research that speaks to gender in different economic contexts? Then, come to our **"Heterogeneity by Gender: Evidence from JMPs" event!** 
 
+[*Watch the recorded event here!*](https://harvard.zoom.us/rec/share/ro8yF8NvjeX6-7FNFeYrnsrOchKpqbEZmVVFOIbL0tLnSuew4uYKzd8ng4WE10Nn.xrUTUpY4utY7XN1e?startTime=1607438765000)
+
 - Day/time: **12/8/20 10am-11am ET**
 - Zoom link: [register for the webinar here!](https://harvard.zoom.us/webinar/register/WN_Y5S2_QwyRkeeD4vSyweZIw) 
   - We will post a recording after as well so interested folks from all time zones can watch.
