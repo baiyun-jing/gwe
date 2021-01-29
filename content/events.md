@@ -8,13 +8,12 @@ date = "2020-01-10"
 While we are apart physically, we are continuing to build community and support each other with weekly virtual lunches ("Littauer Ladies who Lunch") and co-working times. [Contact us](/get-involved/) if you'd like to join virtual meetings.
 
 ## Upcoming *Virtual* Events
-
-- 12/8/20: [Heterogeneity by Gender: Evidence from JMPs](/posts/jmps_event/)
+- 2/1/21: Economics as a Profession: A Fireside Chat with Different Economists
 
 ## Past Events
 
 ### 2020-2021 Academic Year (all *virtual*)
-
+- 12/8/20: [Heterogeneity by Gender: Evidence from JMPs](/posts/jmps_event/)
 - 9/13/20: [PSN & GWE Self-Care Brunch](/posts/psn_gwe_brunch/)
 - 8/20/20: Coffee Hour with the G1s
 
