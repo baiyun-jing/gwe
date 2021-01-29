@@ -8,7 +8,7 @@ date = "2020-01-10"
 While we are apart physically, we are continuing to build community and support each other with weekly virtual lunches ("Littauer Ladies who Lunch") and co-working times. [Contact us](/get-involved/) if you'd like to join virtual meetings.
 
 ## Upcoming *Virtual* Events
-- 2/1/21: Economics as a Profession: A Fireside Chat with Different Economists
+- 2/1/21: [Economics as a Profession: A Fireside Chat with Different Economists](/posts/fireside/)
 
 ## Past Events
 
