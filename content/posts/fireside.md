@@ -2,6 +2,7 @@
 title: 'Economics as a Profession: A Fireside Chat with Different Economists'
 author: Harvard GWE
 date: '2021-02-01'
+publishDate: 2021-01-28
 slug: []
 categories: []
 tags: []
