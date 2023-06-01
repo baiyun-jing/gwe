@@ -1,5 +1,5 @@
 +++
-title = "About Harvard Grad Women in Econ (GWE)"
+title = "About Harvard Economists for Equity (E4E)"
 +++
 
 ## Background
