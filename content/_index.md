@@ -4,20 +4,20 @@ title = "About Harvard Economists for Equity (E4E)"
 
 ## Background
 
-Harvard Grad Women in Econ was set up in spring 2018 with two goals: building community among <a name="t1"></a> women[*](#f1) in economics at Harvard, and bringing together grad students of all genders to work towards the inclusion of women in economics.
+Harvard Economists for <a name="t1"></a>Equity[*](#f1) was set up in spring 2018 with two goals: building community among underrepresented groups in economics at Harvard, and bringing together grad students of all backgrounds to work towards inclusion in economics, with a particular focus on gender equity.
 
-We're open to all PhD students at Harvard in economics-related areas. (That includes students pursuing PhDs in economics, public policy, education policy, business economics, political economy and government, etc.)
+We're open to all PhD students at Harvard in economics-related areas. (That includes students pursuing a PhD in economics, public policy, education policy, business economics, political economy and government, etc.)
 
 ## We have two strands:
 
-1. **Social & networking:** bringing together grad women in economics at Harvard in community with faculty, undergrad women, and women across local departments.
-2. **Working group:** thinking about & taking action on issues to do with gender in our department and in economics more broadly. This is an informal place to try to identify what the issues might be, develop ideas to tackle them, and get together with other people keen to work on them.
+1. **Social & networking:** bringing together underrepresented graduate students in economics at Harvard in community with faculty, undergraduates, and people across local departments.
+2. **Working group:** thinking about & taking action on issues to do with gender and representation in our department and in economics more broadly. This is an informal place to try to identify what the issues might be, develop ideas to tackle them, and get together with other people keen to work on them.
 
 *Note: Working group events are open to all genders, but some social & networking events are specifically for women. Event details will always specify which case fits for a given event.*
 
 ## Our Mission
 
-To increase women's representation and support women's participation in economics, at Harvard and in the broader profession.
+To increase representation for women and other underrepresented groups in economics and support these group's participation in economics, at Harvard and in the broader profession.
 
 ## Our Vision
 
@@ -30,16 +30,15 @@ We support an economics profession where the above is true for all people regard
 
 ## Project Groups
 
-- Seminar Culture
-- Peer & Faculty Outreach
-- Undergrad & High School Outreach
-- Job Market
-- Tech/Media 
+- Social organization
+- Seminar planning
+- Graduate student Wiki
 
 ## Contact Us
 
 Feel free to shoot us an email at `harvardgwe@gmail.com` if you'd like to get in touch.
 
 ---
+<a name="f1"></a> * Formerly Harvard Graduate Women in Econ. [↩](#t1)
 
-<a name="f1"></a> * Throughout our website, this term includes anyone who identifies with the experience of living as a woman. [↩](#t1)
+# <a name="f2"></a> * Throughout our website, this term includes anyone who identifies # with the experience of living as a woman. [↩](#t1)

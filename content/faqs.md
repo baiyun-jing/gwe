@@ -1,5 +1,5 @@
 +++
-title = "FAQs: women in economics and the Harvard GWE group"
+title = "FAQs: Women in economics and the Harvard E4E group"
 date = "2019-04-10"
 +++
 

@@ -1,14 +1,12 @@
 +++
-title = "List of Harvard GWE Events"
-date = "2020-01-10"
+title = "List of Harvard E4E Events"
+date = "2023-06-01"
 +++
 
-**We have postponed all our in-person events from March 2020 onwards due to COVID-19.** 
 
-While we are apart physically, we are continuing to build community and support each other with weekly virtual lunches ("Littauer Ladies who Lunch") and co-working times. [Contact us](/get-involved/) if you'd like to join virtual meetings.
+ [Contact us](/get-involved/) if you'd like to join in our meetings and events.
 
-## Upcoming *Virtual* Events
-- 2/1/21: [Economics as a Profession: A Fireside Chat with Different Economists](/posts/fireside/)
+
 
 ## Past Events
 

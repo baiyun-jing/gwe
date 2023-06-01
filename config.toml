@@ -1,7 +1,7 @@
 theme = "hyde"
 baseURL = "https://harvardgwe.com/"
 languageCode = "en-us"
-title = "Harvard Grad Women in Econ"
+title = "Harvard Economists for Equity"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #googleAnalytics = ""
 footnotereturnlinkcontents = "↩"
@@ -10,7 +10,7 @@ footnotereturnlinkcontents = "↩"
   themeColor = "theme-base-08"
   description = "Working towards a more inclusive economics environment"
   #authorimage = "/img/gwe2.png"
-  #copyright = "Harvard GWE"
+  #copyright = "Harvard E4E"
   
 ## Main Menu
 [[menu.main]]
