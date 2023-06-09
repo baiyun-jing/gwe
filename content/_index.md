@@ -40,5 +40,3 @@ Feel free to shoot us an email at `harvardgwe@gmail.com` if you'd like to get in
 
 ---
 <a name="f1"></a> * Formerly Harvard Graduate Women in Econ. [↩](#t1)
-
-# <a name="f2"></a> * Throughout our website, this term includes anyone who identifies # with the experience of living as a woman. [↩](#t1)
