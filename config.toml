@@ -31,10 +31,10 @@ footnotereturnlinkcontents = "↩"
 [[menu.main]]
     name = "Past Leadership"
     identifier = "past-leadership"
-    weight = 300
+    weight = 400
     url = "/past-leadership/"
 [[menu.main]]
     name = "Get Involved"
     identifier = "get-involved"
-    weight = 400
+    weight = 500
     url = "/get-involved/"    

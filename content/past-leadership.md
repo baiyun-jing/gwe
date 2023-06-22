@@ -7,7 +7,9 @@ date = "2023-06"
 
 # Former Co-Chairs:
 
-<img src="/./team_files/steph.jpg" alt="" width="30%"> **Stephanie Kestelman** was a former co-chair of the group and is interested research interests are public economics, questions in federal/state and local fiscal policy, and urban economics. [`Stephanie's Website`](https://skestelman.github.io/)
+<img src="/./team_files/steph.jpg" alt="" width="30%"> 
+
+**Stephanie Kestelman** was a former co-chair of the group and is interested research interests are public economics, questions in federal/state and local fiscal policy, and urban economics. [`Stephanie's Website`](https://skestelman.github.io/)
 
 <img src="/./team_files/jamie.png" alt="" width="30%">
 
