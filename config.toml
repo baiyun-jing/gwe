@@ -29,6 +29,11 @@ footnotereturnlinkcontents = "↩"
     weight = 300
     url = "/team/"
 [[menu.main]]
+    name = "Past Leadership"
+    identifier = "past-leadership"
+    weight = 300
+    url = "/past-leadership/"
+[[menu.main]]
     name = "Get Involved"
     identifier = "get-involved"
     weight = 400
